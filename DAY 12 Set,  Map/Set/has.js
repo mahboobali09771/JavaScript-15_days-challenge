@@ -1,0 +1,6 @@
+const setDemo = new Set()
+setDemo.add('a')
+setDemo.add('b')
+setDemo.add('c')
+console.log(setDemo.has('b'))
+console.log(setDemo.has('d'))
