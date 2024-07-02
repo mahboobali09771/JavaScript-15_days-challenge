@@ -1,0 +1,1 @@
+console.log(Math.max(1,22,44,2))

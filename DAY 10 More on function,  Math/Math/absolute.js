@@ -1,0 +1,5 @@
+console.log(Math.abs(-19))
+console.log(Math.abs(-9))
+console.log(Math.abs(-10))
+console.log(Math.abs(-190))
+console.log(Math.abs(-159))
